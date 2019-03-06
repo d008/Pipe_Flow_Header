@@ -1,0 +1,31 @@
+Partlist
+
+Exported from Pipe_flow_header_v3.sch at 3/6/2019 6:42 PM
+
+EAGLE Version 8.5.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part                Value                         Device                        Package                       Library             Sheet
+
+ARD_HEADER                                        M06LONGPADS                   1X06_LONGPADS                 SparkFun-Connectors 1
+ARD_LEFT_IN                                       M12LOCK_LONGPADS              1X12_LOCK_LONGPADS            SparkFun-Connectors 1
+ARD_LEFT_OUT                                      M12LOCK_LONGPADS              1X12_LOCK_LONGPADS            SparkFun-Connectors 1
+ARD_RIGHT_IN                                      M12LOCK_LONGPADS              1X12_LOCK_LONGPADS            SparkFun-Connectors 1
+ARD_RIGHT_OUT                                     M12LOCK_LONGPADS              1X12_LOCK_LONGPADS            SparkFun-Connectors 1
+C2                  0.1 microF                    C-US075-032X103               C075-032X103                  adafruit            1
+C3                  0.1 microF                    C-US075-032X103               C075-032X103                  adafruit            1
+C4                  1000 microF                   CPOL-USE7.5-16                E7,5-16                       adafruit            1
+D1                  1N4004                        1N4004                        DO41-10                       diode               1
+FET_DRIVER          IDX_609IXD_609_8PINDIP        IDX_609IXD_609_8PINDIP        IDX_609_8PINDIP               marks_parts_pton    1
+FLOW_METERS         TE_TERMINAL_BLOCK_6POS_ANGLED TE_TERMINAL_BLOCK_6POS_ANGLED TE_TERMINAL_BLOCK_6POS_ANGLED marks_parts_pton    1
+H1                  TO-220_HEATSINK               TO-220_HEATSINK               TO-220_HEATSINK               marks_parts_pton    1
+POLARITY_PROTECTION 1N4004                        1N4004                        DO41-10                       diode               1
+PUMP_CONN           TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED marks_parts_pton    1
+PUMP_MOSFET         TO-220-3                      TO-220-3                      TO-220-3                      marks_parts_pton    1
+PWM_OUT             TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED marks_parts_pton    1
+PWR_SUPPLY          TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED TE_TERMINAL_BLOCK_2POS_ANGLED marks_parts_pton    1
+R1                  100 Ohms                      R-US_0204/7                   0204/7                        adafruit            1
+R2                  4700 Ohms                     R-US_0204/7                   0204/7                        adafruit            1
+R3                  4700 Ohms                     R-US_0204/7                   0204/7                        adafruit            1
+R4                  4700 Ohms                     R-US_0204/7                   0204/7                        adafruit            1
